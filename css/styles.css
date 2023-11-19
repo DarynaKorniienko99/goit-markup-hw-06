@@ -75,7 +75,7 @@ color: #4d5ae5;
 .menu-list {
     display: none;
 }
-.contacts {
+.contacts-menu {
     display: none;
 }
 .header-container {
@@ -126,10 +126,7 @@ color: #4d5ae5;
 .logotype {
     margin-right: 120px;
 }  
-.menu-list {
-    display: flex; 
-    gap: 40px;
-}
+
 .mobile-open-btn {
     display: none;
 }
@@ -139,6 +136,11 @@ color: #4d5ae5;
 .page-navigation {
     display: flex;
     align-items: center;
+}
+
+.menu-list {
+    display: flex; 
+    gap: 40px;
 }
 
 .contacts-menu {
