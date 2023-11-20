@@ -67,6 +67,8 @@ color: #4d5ae5;
     background-color: transparent;
     line-height: 0;
     cursor: pointer;
+    width: 24px;
+    height: 24px;
 }
 
 /* ============== HEADER ============== */ 
@@ -122,7 +124,7 @@ color: #4d5ae5;
     .page-header {
         padding-bottom: 0;
     }
-}
+
 .logotype {
     margin-right: 120px;
 }  
@@ -130,7 +132,7 @@ color: #4d5ae5;
 .mobile-open-btn {
     display: none;
 }
-.contacts {
+.contacts-menu {
     display: flex;
 }
 .page-navigation {
@@ -194,6 +196,7 @@ color: #4d5ae5;
     margin-top: 20px;
     background: #404bbf;
 }
+}
 /* ============== HEADER TABLET STYLES ============== */
 
 /* ============== HEADER DESKTOP STYLES ============== */
@@ -202,7 +205,7 @@ color: #4d5ae5;
         padding-left: 140px;
         padding-right: 140px;
     }
-}
+
 .logotype {
     margin-right: 76px;
 }
@@ -225,6 +228,7 @@ color: #4d5ae5;
 .menu-link:hover,
 .menu-link:focus {
     color: #404bbf;
+}
 }
 /* ============== HEADER DESKTOP STYLES ============== */
 
